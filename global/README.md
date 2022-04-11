@@ -1,6 +1,6 @@
 # Quickview
 
-![alt text](/global/public/img/Screenshot 2022-04-11 at 15.33.06.png)
+![alt text](global/public/map1.png)
 
 # Getting Started with App
 

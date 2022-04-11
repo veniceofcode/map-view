@@ -1,6 +1,6 @@
 # A High Level View
 
-![Map View](/global/public/img/map1.png?raw=true "Map View")
+![Map View](/global/public/map1.png?raw=true "Map View")
 
 # Getting Started with App
 
