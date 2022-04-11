@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Quickview
+
+![alt text](global/public/img/Screenshot 2022-04-11 at 15.33.06.png)
+
+# Getting Started with App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
